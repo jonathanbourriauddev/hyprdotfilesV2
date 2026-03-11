@@ -1,0 +1,158 @@
+# ==================== STARSHIP CONFIG ====================
+# Thème: Catppuccin Mocha
+# Style: Prompt riche et coloré
+
+## Palette Catppuccin Mocha
+palette = "catppuccin_mocha"
+
+[palettes.catppuccin_mocha]
+rosewater = "#f5e0dc"
+flamingo = "#f2cdcd"
+pink = "#f5c2e7"
+mauve = "#cba6f7"
+red = "#f38ba8"
+maroon = "#eba0ac"
+peach = "#fab387"
+yellow = "#f9e2af"
+green = "#a6e3a1"
+teal = "#94e2d5"
+sky = "#89dceb"
+sapphire = "#74c7ec"
+blue = "#89b4fa"
+lavender = "#b4befe"
+text = "#cdd6f4"
+subtext1 = "#bac2de"
+subtext0 = "#a6adc8"
+overlay2 = "#9399b2"
+overlay1 = "#7f849c"
+overlay0 = "#6c7086"
+surface2 = "#585b70"
+surface1 = "#45475a"
+surface0 = "#313244"
+base = "#1e1e2e"
+mantle = "#181825"
+crust = "#11111b"
+
+## Format général du prompt (multi-lignes)
+format = """
+[╭─](bold lavender) $time
+[├─](bold lavender)$username$hostname$directory$git_branch$git_status
+[├─](bold lavender)$nodejs$rust$python$docker$cmd_duration
+[╰─](bold lavender)$character"""
+
+## Dossier courant
+[directory]
+style = "bold lavender"
+truncation_length = 3
+truncate_to_repo = false
+format = "[ 📁 $path ]($style)"
+
+## Git : branche
+[git_branch]
+symbol = " 🌱 "
+style = "bold peach"
+format = "[ $symbol$branch]($style)"
+
+## Git : status (modifications, ajouts, etc.)
+[git_status]
+style = "bold teal"
+format = "([$all_status$ahead_behind]($style))"
+
+## Node.js
+[nodejs]
+symbol = "⬢ "
+style = "bold green"
+format = "[ $symbol$version]($style)"
+detect_files = ["package.json", "node_modules"]
+detect_folders = ["node_modules"]
+
+## Rust
+[rust]
+symbol = "🦀 "
+style = "bold red"
+format = "[ $symbol$version]($style)"
+detect_files = ["Cargo.toml"]
+detect_folders = ["target"]
+
+## Python
+[python]
+symbol = "🐍 "
+style = "bold yellow"
+format = "[ $symbol$version]($style)"
+detect_files = ["requirements.txt", "pyproject.toml", "setup.py", "Pipfile"]
+detect_folders = [".venv", "venv", "virtualenv"]
+
+## Docker
+[docker]
+symbol = "🐳 "
+style = "bold blue"
+format = "[ $symbol$version]($style)"
+detect_files = ["Dockerfile", "docker-compose.yml"]
+
+## Heure
+[time]
+format = "[ 󰥔 $time ](bold peach)"
+disabled = false
+time_format = "%H:%M:%S"
+
+## Utilisateur
+[username]
+style_user = "bold lavender"
+style_root = "bold red"
+format = "[ 👤 $user]($style)"
+show_always = true
+
+## Hôte
+[hostname]
+ssh_only = false
+format = "[@ $hostname](bold peach)"
+disabled = false
+
+## Durée des commandes
+[cmd_duration]
+style = "bold overlay0"
+format = "[ ⏱ $duration ]($style)"
+disabled = false
+min_time = 500
+
+## Caractère du prompt
+[character]
+success_symbol = "[❯](bold green)"
+error_symbol = "[❯](bold red)"
+vicmd_symbol = "[❮](bold green)"
+format = "$symbol "
+
+## Remplissage (lignes)
+[fill]
+symbol = "─"
+style = "bold lavender"
+
+## Shell
+[shell]
+disabled = false
+format = "[ $indicator]($style)"
+fish_indicator = "🐟"
+bash_indicator = "🐚"
+zsh_indicator = "💻"
+
+## Mémoire (optionnel)
+[memory_usage]
+disabled = true
+format = "[ $symbol$ram ](bold peach)"
+symbol = "🧠 "
+
+## Batterie (optionnel)
+[battery]
+disabled = true
+format = "[ $symbol$percentage]($style)"
+full_symbol = "🔋"
+charging_symbol = "⚡"
+discharging_symbol = "🔋"
+
+## Status de la dernière commande
+[status]
+disabled = false
+format = "[ $symbol$status]($style)"
+symbol = "✗"
+style = "bold red"
+pipestatus = true
