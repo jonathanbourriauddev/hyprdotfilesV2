@@ -1,5 +1,14 @@
+# Fichiers temporaires
 *.old
 *.backup
 *.swp
 *~
 .DS_Store
+
+# Fichiers de logs
+*.log
+*.cache
+
+# Fichiers spécifiques
+hypr/hyprland.conf.old
+hypr/hyprland.conf\*
