@@ -1,0 +1,13 @@
+@theme "~/.config/rofi/themes/typecraft.rasi"
+
+configuration {
+    modi: "drun,run,window";
+    icon-theme: "Papirus";
+    show-icons: true;
+    display-drun: " Apps ";
+    display-run: " Run ";
+    display-window: " Window ";
+    drun-display-format: "{name}";
+    window-format: "{w} · {c}";
+    font: "JetBrains Mono Nerd Font 12";
+}

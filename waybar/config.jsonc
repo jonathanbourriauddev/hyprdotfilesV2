@@ -1,0 +1,77 @@
+{
+    "layer": "top",
+    "position": "top",
+    "height": 32,
+    "spacing": 8,
+    "margin-top": 2,
+    "margin-bottom": 0,
+    "margin-left": 2,
+    "margin-right": 2,
+    
+    "modules-left": ["hyprland/workspaces"],
+    "modules-center": ["clock"],
+    "modules-right": ["pulseaudio", "network", "battery", "tray"],
+    
+    "hyprland/workspaces": {
+        "disable-scroll": true,
+        "all-outputs": true,
+        "format": "{icon}",
+        "format-icons": {
+            "1": "Ⅰ",
+            "2": "Ⅱ", 
+            "3": "Ⅲ",
+            "4": "Ⅳ",
+            "5": "Ⅴ",
+            "urgent": "",
+            "focused": "",
+            "default": ""
+        }
+    },
+    
+    "clock": {
+        "format": "{:%H:%M}",
+        "format-alt": "{:%A %d %B %Y}",
+        "interval": 1,
+        "on-click": "yad --calendar --title='Calendrier' --width=320 --height=250 --no-buttons &",
+        "tooltip": true,
+        "tooltip-format": "<big>{:%A %d %B %Y}</big>\n<tt>{calendar}</tt>"
+    },
+    
+    "pulseaudio": {
+        "format": "{icon} {volume}%",
+        "format-muted": "",
+        "format-icons": ["", "", ""],
+        "on-click": "pavucontrol",
+        "on-scroll-up": "pamixer -i 2",
+        "on-scroll-down": "pamixer -d 2",
+        "scroll-step": 2,
+        "ignored-sinks": ["Easy Effects Sink"]
+    },
+    
+    "network": {
+        "format-wifi": "  {essid}",
+        "format-ethernet": "",
+        "format-disconnected": "  Hors ligne",
+        "tooltip-format": "{ifname} ({signalStrength}%)",
+        "on-click": "nm-connection-editor",
+        "interval": 5
+    },
+    
+    "battery": {
+        "format": "{icon} {capacity}%",
+        "format-icons": ["", "", "", "", ""],
+        "format-charging": "⚡{capacity}%",
+        "format-discharging": "{icon} {capacity}%",
+        "interval": 10,
+        "states": {
+            "warning": 20,
+            "critical": 10
+        },
+        "on-click": "xfce4-power-manager-settings"
+    },
+    
+    "tray": {
+        "spacing": 8,
+        "icon-size": 16
+    }
+}
