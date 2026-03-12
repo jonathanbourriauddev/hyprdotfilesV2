@@ -74,3 +74,4 @@ alias l="ls -CF"
 # Hyprland
 alias hreload="hyprctl reload"
 alias hkill="pkill Hyprland"
+set -gx QT_QPA_PLATFORMTHEME qt6ct
