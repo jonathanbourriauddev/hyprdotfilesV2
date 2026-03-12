@@ -2,11 +2,7 @@ if status is-interactive
 # Commands to run in interactive sessions can go here
 end
 starship init fish | source
-# Bienvenue
-function fish_greeting
-    echo "🐟 Welcome to Fish + Starship!"
-    echo "📁 Config: ~/.config"
-end
+
 # Starship
 starship init fish | source
 
@@ -31,11 +27,6 @@ alias rof "cd ~/.config/rofi"
 set -gx EDITOR nano
 set -gx VISUAL nano
 
-# Bienvenue
-function fish_greeting
-    echo "🐟 Welcome to Fish + Starship!"
-    echo "📁 Config: ~/.config"
-end
 
 # Alias pour recharger fish
 alias reload="exec fish"
@@ -75,3 +66,9 @@ alias l="ls -CF"
 alias hreload="hyprctl reload"
 alias hkill="pkill Hyprland"
 set -gx QT_QPA_PLATFORMTHEME qt6ct
+
+# Éditeur par défaut
+set -gx EDITOR nvim
+set -gx VISUAL nvim
+# Alias pour sudo avec nvim
+alias sn='sudo -E nvim'
