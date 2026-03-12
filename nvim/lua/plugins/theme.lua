@@ -5,7 +5,7 @@ return {
     priority = 1000,
     config = function()
       require("catppuccin").setup({
-        flavour = "mocha", -- latte, frappe, macchiato, mocha
+        flavour = "mocha",
         transparent_background = false,
         term_colors = true,
         styles = {
@@ -46,8 +46,6 @@ return {
           mini = true,
         },
       })
-      
-      -- Applique le thème
       vim.cmd.colorscheme("catppuccin")
     end,
   }
