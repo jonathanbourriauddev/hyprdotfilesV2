@@ -1,0 +1,708 @@
+{
+   "checksum": "428c81dee8b3c412a3e25d4c5bb4f442",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13414618997000000",
+            "date_last_used": "0",
+            "guid": "5eceaabb-34f5-4ac9-b210-2a0d7d3f239a",
+            "id": "5",
+            "name": "nas-1F-BA-72",
+            "type": "url",
+            "url": "http://192.168.1.7/admin/"
+         }, {
+            "date_added": "13414531932000000",
+            "date_last_used": "0",
+            "guid": "387b67f1-4d01-471b-a913-be32161087de",
+            "id": "6",
+            "name": "pve01 - Proxmox Virtual Environment",
+            "type": "url",
+            "url": "https://192.168.1.100:8006/#v1:0:=qemu%2F100:4:::::8::"
+         }, {
+            "children": [ {
+               "date_added": "13416839533000000",
+               "date_last_used": "0",
+               "guid": "e5273ec5-07dd-4e4f-9d49-4bcebe24a5e0",
+               "id": "8",
+               "name": "GitHub · Change is constant. GitHub keeps you ahead. · GitHub",
+               "type": "url",
+               "url": "https://github.com/"
+            }, {
+               "date_added": "13416839578000000",
+               "date_last_used": "0",
+               "guid": "e9d10916-9de9-415e-b307-baf05542d9fc",
+               "id": "9",
+               "name": "GitHub - Grafikart/dotfiles: Personnal dotfiles to make new servers feel like home",
+               "type": "url",
+               "url": "https://github.com/grafikart/dotfiles"
+            }, {
+               "date_added": "13416839603000000",
+               "date_last_used": "0",
+               "guid": "39a13c33-de12-4992-a261-1a6f36449ae4",
+               "id": "10",
+               "name": "GitHub - typecraft-dev/dotfiles",
+               "type": "url",
+               "url": "https://github.com/typecraft-dev/dotfiles"
+            }, {
+               "date_added": "13416506522000000",
+               "date_last_used": "0",
+               "guid": "cdc64709-ac26-495f-b0d6-48063c7ed3d5",
+               "id": "11",
+               "name": "dotfiles/config at main · Grafikart/dotfiles",
+               "type": "url",
+               "url": "https://github.com/Grafikart/dotfiles/tree/main/config"
+            }, {
+               "date_added": "13411677541000000",
+               "date_last_used": "0",
+               "guid": "d9da5cf4-b4ad-4fa9-8b38-d0f95740b3ec",
+               "id": "12",
+               "name": "GitHub",
+               "type": "url",
+               "url": "https://github.com/"
+            } ],
+            "date_added": "13417806270544016",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "2a83b903-b3a5-43a7-b282-b656212333c8",
+            "id": "7",
+            "name": "github",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13411468280000000",
+               "date_last_used": "0",
+               "guid": "694333b3-d5df-4aa0-b829-68fc93e53b40",
+               "id": "14",
+               "name": "(20) Accueil / X",
+               "type": "url",
+               "url": "https://x.com/home"
+            }, {
+               "date_added": "13414449838000000",
+               "date_last_used": "0",
+               "guid": "43f89032-0949-4e21-8a11-3ae4e47587dc",
+               "id": "15",
+               "name": "(20+) Facebook",
+               "type": "url",
+               "url": "https://www.facebook.com/"
+            }, {
+               "date_added": "13414751672000000",
+               "date_last_used": "0",
+               "guid": "657fc470-cbe1-4217-bfcf-e15f0c6517b7",
+               "id": "16",
+               "name": "(1) kSuite - Infomaniak",
+               "type": "url",
+               "url": "https://ksuite.infomaniak.com/1710261/init/kdrive/2296612"
+            }, {
+               "date_added": "13417214008000000",
+               "date_last_used": "13417806292277921",
+               "guid": "968e1471-3904-467b-83b9-7437d4297117",
+               "id": "17",
+               "name": "Inbox (92) - jonathan.bourriauddev@gmail.com - Gmail",
+               "type": "url",
+               "url": "https://mail.google.com/mail/u/0/?pli=1#inbox"
+            } ],
+            "date_added": "13417806270544289",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "d65f157f-6246-45c6-826b-83c2c421e26c",
+            "id": "13",
+            "name": "res",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13413028993000000",
+               "date_last_used": "0",
+               "guid": "4a7fbb8a-980e-43ce-a70c-1d4075901ee2",
+               "id": "19",
+               "name": "Image libre de droit, banque d’image gratuite et photos gratuites",
+               "type": "url",
+               "url": "https://www.pexels.com/fr-fr/"
+            }, {
+               "date_added": "13413029103000000",
+               "date_last_used": "0",
+               "guid": "1938ae66-5564-4561-a38f-699450b60254",
+               "id": "20",
+               "name": "Pixel Abbey | Video production",
+               "type": "url",
+               "url": "https://www.pixelabbey.com/"
+            }, {
+               "date_added": "13413029695000000",
+               "date_last_used": "0",
+               "guid": "a46a716e-3a08-42d6-91b7-30f4c2347fa5",
+               "id": "21",
+               "name": "Plus d'un million d'images libres de droits - Pixabay",
+               "type": "url",
+               "url": "https://pixabay.com/fr/"
+            } ],
+            "date_added": "13417806270544543",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "0e2dcbba-f3c0-4e87-a5ee-b3bd0272b46a",
+            "id": "18",
+            "name": "bank d'images",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13409827247000000",
+               "date_last_used": "0",
+               "guid": "c232b0c3-993e-4e40-ae6d-0666bd828518",
+               "id": "23",
+               "name": "Welcome to Python.org",
+               "type": "url",
+               "url": "https://www.python.org/"
+            }, {
+               "date_added": "13409229661000000",
+               "date_last_used": "0",
+               "guid": "caaf2d26-7165-4f0e-a9f2-ea1479842894",
+               "id": "24",
+               "name": "Comment démarrer Python quand on est un vrai débutant ? : r/learnpython",
+               "type": "url",
+               "url": "https://www.reddit.com/r/learnpython/comments/18l6y75/how_to_start_python_for_a_complete_noob/?tl=fr"
+            }, {
+               "date_added": "13409229701000000",
+               "date_last_used": "0",
+               "guid": "6ede9a93-3cc4-4349-bc6a-8f5c4f5503b4",
+               "id": "25",
+               "name": "futurecoder : Le code du futur, c'est vous !",
+               "type": "url",
+               "url": "https://fr.futurecoder.io/"
+            }, {
+               "date_added": "13409835909000000",
+               "date_last_used": "0",
+               "guid": "d1e117a6-7fe7-481b-bbe5-15403f2f5db1",
+               "id": "26",
+               "name": "PEP 8 – Style Guide for Python Code | peps.python.org",
+               "type": "url",
+               "url": "https://peps.python.org/pep-0008/"
+            }, {
+               "date_added": "13410349646000000",
+               "date_last_used": "0",
+               "guid": "321f9629-93ff-4da4-bf80-ebe25cf700a4",
+               "id": "27",
+               "name": "PyPI · L'Index des paquets Python",
+               "type": "url",
+               "url": "https://pypi.org/"
+            }, {
+               "date_added": "13410349691000000",
+               "date_last_used": "0",
+               "guid": "c8f0c3fa-7326-4b01-90a0-6ab896e95a66",
+               "id": "28",
+               "name": "GitHub",
+               "type": "url",
+               "url": "https://github.com/"
+            }, {
+               "date_added": "13410546262000000",
+               "date_last_used": "0",
+               "guid": "60b64094-6797-438d-926c-00dc018d16b9",
+               "id": "29",
+               "name": "HTML : HyperText Markup Language | MDN",
+               "type": "url",
+               "url": "https://developer.mozilla.org/fr/docs/Web/HTML"
+            }, {
+               "date_added": "13410557838000000",
+               "date_last_used": "0",
+               "guid": "62dd92c8-688d-497c-9efe-929ab1a7ccd0",
+               "id": "30",
+               "name": "CSS : Feuilles de style en cascade | MDN",
+               "type": "url",
+               "url": "https://developer.mozilla.org/fr/docs/Web/CSS"
+            }, {
+               "date_added": "13410713648000000",
+               "date_last_used": "0",
+               "guid": "2d789e62-a624-4d27-bd27-ebacb3aa7b12",
+               "id": "31",
+               "name": "Codes Couleur HTML – HTML Color Codes",
+               "type": "url",
+               "url": "https://htmlcolorcodes.com/fr/"
+            }, {
+               "date_added": "13410713653000000",
+               "date_last_used": "0",
+               "guid": "b81f1f1f-3adf-4d1d-a3f9-b3a712a83f2e",
+               "id": "32",
+               "name": "Codes Couleur HTML – HTML Color Codes",
+               "type": "url",
+               "url": "https://htmlcolorcodes.com/fr/"
+            }, {
+               "date_added": "13412775227000000",
+               "date_last_used": "0",
+               "guid": "87af2c52-56a7-492a-810b-0fdc6a69efcf",
+               "id": "33",
+               "name": "Welcome to XAMPP",
+               "type": "url",
+               "url": "http://localhost:8082/dashboard/"
+            }, {
+               "date_added": "13412110853000000",
+               "date_last_used": "0",
+               "guid": "b7fc96a2-a103-4ae4-ae54-492102262b4a",
+               "id": "34",
+               "name": "Carl Brison. Formateur et développeur professionnel de site web",
+               "type": "url",
+               "url": "https://www.carlbrison.fr/"
+            }, {
+               "date_added": "13412443649000000",
+               "date_last_used": "0",
+               "guid": "78ccef46-8dd8-4162-9858-08436951b8a0",
+               "id": "35",
+               "name": "\"::-webkit-scrollbar\" | Can I use... Support tables for HTML5, CSS3, etc",
+               "type": "url",
+               "url": "https://caniuse.com/?search=%3A%3A-webkit-scrollbar"
+            }, {
+               "date_added": "13408472499000000",
+               "date_last_used": "0",
+               "guid": "abb3c1a5-cb69-40b9-844d-2dd774ee0a0d",
+               "id": "36",
+               "name": "Comment déprotéger une feuille Excel : Avec ou sans mot de passe | DataCamp",
+               "type": "url",
+               "url": "https://www.datacamp.com/fr/tutorial/unprotect-excel-sheet"
+            }, {
+               "date_added": "13408472516000000",
+               "date_last_used": "0",
+               "guid": "3d51faae-997f-4c61-943c-03c7c9b3bd3d",
+               "id": "37",
+               "name": "Supprimer le mot de passe d'un classeur Excel : r/excel",
+               "type": "url",
+               "url": "https://www.reddit.com/r/excel/comments/k87cn1/remove_password_from_an_excel_workbook/?tl=fr"
+            }, {
+               "date_added": "13408128403000000",
+               "date_last_used": "0",
+               "guid": "f7f520d4-b900-4c44-a7c1-c178aaeabeda",
+               "id": "38",
+               "name": "Excel 2019 : L'essentiel - Formation Débutant",
+               "type": "url",
+               "url": "https://www.alphorm.com/dashboard"
+            }, {
+               "date_added": "13413323800000000",
+               "date_last_used": "0",
+               "guid": "771d4f23-aa0e-466f-88a2-42f0f9d36d66",
+               "id": "39",
+               "name": "Installing Tailwind CSS with Vite - Tailwind CSS",
+               "type": "url",
+               "url": "https://tailwindcss.com/docs/installation/using-vite"
+            }, {
+               "date_added": "13413582284000000",
+               "date_last_used": "0",
+               "guid": "f5bb5cc2-a0dc-40fa-823a-5c349d2710a1",
+               "id": "40",
+               "name": "10 Projets Javascript | La Minute De Code",
+               "type": "url",
+               "url": "https://www.laminutedecode.com/tutoriels/10-projets-javascript"
+            }, {
+               "date_added": "13413582761000000",
+               "date_last_used": "0",
+               "guid": "f0fe6545-0aef-4b7c-8c63-c7205d6f4960",
+               "id": "41",
+               "name": "Grafikart | Dernier tutoriels | Grafikart",
+               "type": "url",
+               "url": "https://grafikart.fr/"
+            }, {
+               "date_added": "13413581865000000",
+               "date_last_used": "0",
+               "guid": "8bd992f0-83bf-43ac-af4e-c750f3bd12e1",
+               "id": "42",
+               "name": "La Minute De Code | Apprenez le Développement Web Gratuitement - Tutoriels HTML, CSS, JavaScript, React",
+               "type": "url",
+               "url": "https://www.laminutedecode.com/"
+            }, {
+               "date_added": "13413916764000000",
+               "date_last_used": "0",
+               "guid": "44607778-d933-4508-bfef-46a6522dc801",
+               "id": "43",
+               "name": "JavaScript documentation — DevDocs",
+               "type": "url",
+               "url": "https://devdocs.io/javascript/"
+            }, {
+               "date_added": "13413411913000000",
+               "date_last_used": "0",
+               "guid": "debaf389-5461-4a10-906f-791eb55bb9a9",
+               "id": "44",
+               "name": "npm | Home",
+               "type": "url",
+               "url": "https://www.npmjs.com/"
+            }, {
+               "date_added": "13413581666000000",
+               "date_last_used": "0",
+               "guid": "5ed2f63c-ff3e-4617-8c8e-cb47b8893327",
+               "id": "45",
+               "name": "La Minute De Code | Apprenez le Développement Web Gratuitement - Tutoriels HTML, CSS, JavaScript, React",
+               "type": "url",
+               "url": "https://www.laminutedecode.com/"
+            }, {
+               "date_added": "13413061950000000",
+               "date_last_used": "0",
+               "guid": "857f4ebc-9871-4a21-bef1-597fb2fffc51",
+               "id": "46",
+               "name": "Font Awesome",
+               "type": "url",
+               "url": "https://fontawesome.com/"
+            } ],
+            "date_added": "13417806270544703",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "04157717-d837-400b-af11-a7f72658683a",
+            "id": "22",
+            "name": "code",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13397210714000000",
+               "date_last_used": "0",
+               "guid": "27fda4a3-a4e0-45ba-97ce-538ce0ec7430",
+               "id": "48",
+               "name": "Kimi K2: Open Agentic Intelligence",
+               "type": "url",
+               "url": "https://kimik2.net/"
+            }, {
+               "date_added": "13397210732000000",
+               "date_last_used": "0",
+               "guid": "ee0a943d-70be-4726-9584-d0e7205051fb",
+               "id": "49",
+               "name": "OpenAI pour les entreprises | OpenAI",
+               "type": "url",
+               "url": "https://openai.com/fr-FR/business/?utm_source=google&utm_medium=paidsearch_competitor&utm_campaign=GOOG_B_SEM_GCP_Core_TEM_BAU_ACQ_PER_MIX_ALL_tCPA_BST_EMEA_FR_FR_051325&utm_term=claude%20ai%20entreprise&utm_content=179841064015&utm_ad=751947419948&utm_match=p&gad_source=1&gad_campaignid=22546741563&gbraid=0AAAAA-I0E5d8xtnv-AOxrdeJjuvxJ-PHF&gclid=EAIaIQobChMI0cSFza7DjgMVHz0GAB37qjBrEAAYASAAEgLZV_D_BwE"
+            }, {
+               "date_added": "13397210756000000",
+               "date_last_used": "0",
+               "guid": "35f9fb6e-497e-4fdd-a3d6-4f100abcb655",
+               "id": "50",
+               "name": "DeepSeek | 深度求索",
+               "type": "url",
+               "url": "https://www.deepseek.com/"
+            }, {
+               "date_added": "13397210781000000",
+               "date_last_used": "0",
+               "guid": "66b60fcd-0f01-4ee8-99e5-27025a1d1495",
+               "id": "51",
+               "name": "Correcteur de texte, Reformulation de texte & Traducteur Multilingue | Grammatikai",
+               "type": "url",
+               "url": "https://grammatikai.com/fr/correcteur-de-texte"
+            }, {
+               "date_added": "13397211909000000",
+               "date_last_used": "0",
+               "guid": "fafc7631-f675-4b6f-a2e2-f0f93b992734",
+               "id": "52",
+               "name": "Perplexity",
+               "type": "url",
+               "url": "https://www.perplexity.ai/"
+            }, {
+               "date_added": "13397211929000000",
+               "date_last_used": "0",
+               "guid": "25375da7-32e3-4dc9-a33f-c217e443d25e",
+               "id": "53",
+               "name": "IA de pointe : LLM, assistants, agents, services | Mistral AI",
+               "type": "url",
+               "url": "https://mistral.ai/fr"
+            }, {
+               "date_added": "13397212029000000",
+               "date_last_used": "0",
+               "guid": "4459ee62-1c25-4898-8bd6-5077eff575ad",
+               "id": "54",
+               "name": "Dicte.ai - AI Meetings and AI Voice Notes on Mobile",
+               "type": "url",
+               "url": "https://www.dicte.ai/"
+            }, {
+               "date_added": "13401533687000000",
+               "date_last_used": "0",
+               "guid": "17deeb13-2f48-41d5-bccb-160c62372a11",
+               "id": "55",
+               "name": "Télécharger Flashboot (gratuit) Windows - Clubic",
+               "type": "url",
+               "url": "https://www.clubic.com/telecharger-fiche575358-flashboot.html?utm_source=flipboard&utm_content=topic/fr-windows"
+            }, {
+               "date_added": "13401533715000000",
+               "date_last_used": "0",
+               "guid": "97047a80-6086-4be9-84c7-85ba885e00a0",
+               "id": "56",
+               "name": "Google lance Opal, un bac à sable pour concevoir des assistants IA agissants - IT SOCIAL",
+               "type": "url",
+               "url": "https://itsocial.fr/intelligence-artificielle/intelligence-artificielle-actualites/google-lance-opal-un-bac-a-sable-pour-concevoir-des-assistants-ia-agissants/?utm_source=flipboard&utm_content=Melanie33a0/magazine/Veille+DS2I"
+            }, {
+               "date_added": "13403112776000000",
+               "date_last_used": "0",
+               "guid": "326a5bdc-dce0-4ba3-b762-aaa8aecd272b",
+               "id": "57",
+               "name": "Tableau de bord",
+               "type": "url",
+               "url": "https://grammatikai.com/fr/dashboard"
+            }, {
+               "date_added": "13403349166000000",
+               "date_last_used": "0",
+               "guid": "116f1d5f-c2a9-44d3-a75a-2d9327929db4",
+               "id": "58",
+               "name": "Comment créer son agent IA pour automatiser sa veille avec n8n",
+               "type": "url",
+               "url": "https://www.journaldunet.com/intelligence-artificielle/1544399-creer-son-agent-ia-pour-automatiser-sa-veille/?utm_source=flipboard&utm_content=Melanie33a0/magazine/Veille+DS2I"
+            }, {
+               "date_added": "13406226463000000",
+               "date_last_used": "0",
+               "guid": "d5f35dc9-bbbe-4767-9357-0c560915f45e",
+               "id": "59",
+               "name": "Gamma | Le meilleur outil IA pour la création de présentations et de sites web",
+               "type": "url",
+               "url": "https://gamma.app/fr?gad_campaignid=22872694947&gad_source=1&gbraid=0AAAAAqWjqPSWikDlatcxbkNpkXyMqcVht&gclid=Cj0KCQjw9obIBhCAARIsAGHm1mRIBhkTgGaOtzW5etWcFpXMHsIwVRfdpQdeEtebA2tLT0sl7DL_i6gaAnLaEALw_wcB&utm_campaign=22872694947&utm_content=186353101889&utm_id=tw&utm_medium=search&utm_source=google&utm_term=gamma+ai"
+            }, {
+               "date_added": "13404218092000000",
+               "date_last_used": "0",
+               "guid": "e14cd9e5-3865-4d0e-9200-b0cd88d0a33a",
+               "id": "60",
+               "name": "Le Chat",
+               "type": "url",
+               "url": "https://chat.mistral.ai/chat"
+            }, {
+               "date_added": "13407578695000000",
+               "date_last_used": "0",
+               "guid": "610405fe-007d-4e85-8214-975978a2cbb9",
+               "id": "61",
+               "name": "Le Chat",
+               "type": "url",
+               "url": "https://chat.mistral.ai/chat"
+            }, {
+               "date_added": "13408129353000000",
+               "date_last_used": "0",
+               "guid": "b948ff3a-34b5-46bf-9326-5dd0c9f0f147",
+               "id": "62",
+               "name": "Google Gemini",
+               "type": "url",
+               "url": "https://gemini.google.com/app?hl=fr"
+            }, {
+               "date_added": "13408129365000000",
+               "date_last_used": "0",
+               "guid": "2a26c04d-0940-4ffc-8722-5572cf868657",
+               "id": "63",
+               "name": "Claude",
+               "type": "url",
+               "url": "https://claude.ai/new"
+            }, {
+               "date_added": "13408464714000000",
+               "date_last_used": "0",
+               "guid": "df4f2a94-d023-4285-af0e-3aa84ade18ad",
+               "id": "64",
+               "name": "Claude Code | Claude",
+               "type": "url",
+               "url": "https://www.claude.com/product/claude-code"
+            }, {
+               "date_added": "13409761478000000",
+               "date_last_used": "0",
+               "guid": "de14d49e-36a9-404b-986e-8a333d0cacfc",
+               "id": "65",
+               "name": "Claude",
+               "type": "url",
+               "url": "https://claude.ai/new"
+            }, {
+               "date_added": "13412981135000000",
+               "date_last_used": "0",
+               "guid": "b6e6c50d-7d0a-4de5-bb73-d240555014a9",
+               "id": "66",
+               "name": "Welcome to XAMPP",
+               "type": "url",
+               "url": "http://localhost/dashboard/"
+            }, {
+               "date_added": "13416839509000000",
+               "date_last_used": "0",
+               "guid": "67a4534f-e2a6-4f8b-9586-9999a7682206",
+               "id": "67",
+               "name": "Google Gemini",
+               "type": "url",
+               "url": "https://gemini.google.com/app?hl=fr"
+            }, {
+               "date_added": "13416839633000000",
+               "date_last_used": "0",
+               "guid": "5e9f2fa6-3549-4e4d-883d-b6b2e233666a",
+               "id": "68",
+               "name": "DeepSeek - Au-delà de l'inconnu",
+               "type": "url",
+               "url": "https://chat.deepseek.com/sign_in"
+            }, {
+               "date_added": "13414845712000000",
+               "date_last_used": "0",
+               "guid": "c6ba4f4c-3ab7-42aa-b44c-8c372768075d",
+               "id": "69",
+               "name": "ChatGPT",
+               "type": "url",
+               "url": "https://chatgpt.com/"
+            }, {
+               "date_added": "13414848522000000",
+               "date_last_used": "0",
+               "guid": "50f69ca7-7552-4f0a-a4df-38dde91c2c62",
+               "id": "70",
+               "name": "Agents",
+               "type": "url",
+               "url": "https://chat.mistral.ai/agents"
+            } ],
+            "date_added": "13417806270545767",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "0fdbd5c4-f7f8-4469-a979-bcaf8289cdda",
+            "id": "47",
+            "name": "ia",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13409056689000000",
+               "date_last_used": "0",
+               "guid": "7a118eff-fa7f-4dff-8304-a7f51748bb46",
+               "id": "72",
+               "name": "IT-Connect",
+               "type": "url",
+               "url": "https://www.it-connect.fr/"
+            }, {
+               "date_added": "13408713128000000",
+               "date_last_used": "0",
+               "guid": "e88c3d46-91aa-40ee-ab00-fb781fa10e0a",
+               "id": "73",
+               "name": "(257) Fil d'actualité - Inoreader",
+               "type": "url",
+               "url": "https://www.inoreader.com/all_articles"
+            }, {
+               "date_added": "13411468291000000",
+               "date_last_used": "0",
+               "guid": "cc2a3045-9fb6-4ce5-9b7e-8f70bff1564a",
+               "id": "74",
+               "name": "(5) Fil d’actualité | LinkedIn",
+               "type": "url",
+               "url": "https://www.linkedin.com/feed/"
+            } ],
+            "date_added": "13417806270549293",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "9e474a65-1197-4a64-9e86-43ecd3084e49",
+            "id": "71",
+            "name": "veille",
+            "type": "folder"
+         }, {
+            "date_added": "13417304455000000",
+            "date_last_used": "13417806375535617",
+            "guid": "16cd1a66-30b9-4bfa-9787-c581a0c0712a",
+            "id": "75",
+            "name": "CasaOS",
+            "type": "url",
+            "url": "http://192.168.1.10:81/#/"
+         }, {
+            "children": [ {
+               "date_added": "13412963718000000",
+               "date_last_used": "13417806451260690",
+               "guid": "72c421a1-49d6-48a5-a135-a38c6d79a6ce",
+               "id": "77",
+               "name": "Tirexo - 1er site de téléchargement direct francophone",
+               "type": "url",
+               "url": "https://www.tirexo.fit/"
+            }, {
+               "date_added": "13411766098000000",
+               "date_last_used": "0",
+               "guid": "16d3c5ab-98aa-4491-81ee-2d92390de792",
+               "id": "78",
+               "name": "Accueil - Movix",
+               "type": "url",
+               "url": "https://movix.club/"
+            }, {
+               "date_added": "13417641253000000",
+               "date_last_used": "0",
+               "guid": "bc3bb180-45ae-444e-8882-fd8febc2c764",
+               "id": "79",
+               "name": "Anna’s Archive: LibGen (Library Genesis), Sci-Hub, Z-Library in one place - Archives d'Anna",
+               "type": "url",
+               "url": "https://fr.annas-archive.gl/"
+            }, {
+               "date_added": "13417555820000000",
+               "date_last_used": "0",
+               "guid": "7de0393c-b6cd-4eee-982e-6cdb1091f8b1",
+               "id": "80",
+               "name": "Books / Comics / Manga • freemediaheckyeah",
+               "type": "url",
+               "url": "https://fmhy.pages.dev/reading"
+            } ],
+            "date_added": "13417806270549596",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "b778a468-eea4-43bd-ac85-ed7ed67727c7",
+            "id": "76",
+            "name": "televersement",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13414438139000000",
+               "date_last_used": "0",
+               "guid": "d32daed1-0bc0-4e03-b5a8-3a09dce64b10",
+               "id": "82",
+               "name": "Café de la Gare – La cantine comme à la maison…",
+               "type": "url",
+               "url": "http://cafe-de-la-gare.local/"
+            }, {
+               "date_added": "13414272803000000",
+               "date_last_used": "0",
+               "guid": "d64813dd-3b61-47be-9fbd-b2e7758a1884",
+               "id": "83",
+               "name": "OVHcloud",
+               "type": "url",
+               "url": "https://manager.eu.ovhcloud.com/#/account/useraccount/dashboard"
+            }, {
+               "date_added": "13414432340000000",
+               "date_last_used": "0",
+               "guid": "215cc1c1-92b3-4b71-8ab8-f83fdc75fcea",
+               "id": "84",
+               "name": "Café de la Gare – La cantine comme à la maison…",
+               "type": "url",
+               "url": "https://cafedelagare45.fr/"
+            }, {
+               "date_added": "13414432638000000",
+               "date_last_used": "0",
+               "guid": "08cda512-7551-41aa-a3f6-c94dd256dce7",
+               "id": "85",
+               "name": "Gandi.net - Noms de domaine, Hébergement Web et Certificats SSL et Email",
+               "type": "url",
+               "url": "https://www.gandi.net/fr"
+            } ],
+            "date_added": "13417806270549758",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "c54c0a6f-66ea-4862-b3e6-7acab971c736",
+            "id": "81",
+            "name": "site café de la gare",
+            "type": "folder"
+         }, {
+            "date_added": "13417303379000000",
+            "date_last_used": "13417806362664704",
+            "guid": "47a81aec-fbbe-4ecb-bc3f-13cb62b23587",
+            "id": "86",
+            "name": "Pi-hole gateway-access",
+            "type": "url",
+            "url": "http://192.168.1.10/admin/"
+         }, {
+            "date_added": "13417806430682069",
+            "date_last_used": "0",
+            "guid": "5089a03c-e271-4fc6-ba80-2a86bd2280a0",
+            "id": "87",
+            "name": "Uptime Kuma",
+            "type": "url",
+            "url": "http://192.168.1.10:3001/dashboard"
+         } ],
+         "date_added": "13417806107974203",
+         "date_last_used": "0",
+         "date_modified": "13417806430682070",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favoris",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13417806107974203",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Autres favoris",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13417806107974203",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoris d'appareils mobiles",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
