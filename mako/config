@@ -1,0 +1,37 @@
+# Configuration Mako - Thème Catppuccin Mocha
+
+# Position et taille
+anchor=top-right
+width=400
+height=200
+margin=20
+padding=10
+border-size=2
+
+# Durée d'affichage
+default-timeout=5000
+ignore-timeout=0
+
+# Police et apparence
+font=JetBrains Mono Nerd Font 10
+icons=1
+max-icon-size=32
+
+# Couleurs Catppuccin Mocha
+background-color=#1e1e2e
+text-color=#cdd6f4
+border-color=#cba6f7
+progress-color=#89b4fa
+
+# Groupes de notifications
+[urgency=low]
+border-color=#6c7086
+default-timeout=3000
+
+[urgency=normal]
+border-color=#cba6f7
+default-timeout=5000
+
+[urgency=high]
+border-color=#f38ba8
+default-timeout=8000
