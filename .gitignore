@@ -12,3 +12,15 @@
 # Fichiers spécifiques
 hypr/hyprland.conf.old
 hypr/hyprland.conf\*
+
+# Firefox
+mozilla/
+*.sqlite*
+*.jsonl*
+*.delta
+*.wal
+*.shm
+thunar.xml
+xfce4/
+mimeapps.list
+*.bak

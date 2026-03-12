@@ -1,0 +1,35 @@
+{
+  "logo": {
+    "type": "arch",
+    "source": "arch",
+    "color": {
+      "1": "#89b4fa",
+      "2": "#cba6f7",
+      "3": "#fab387",
+      "4": "#a6e3a1"
+    }
+  },
+  "display": {
+    "separator": "  ",
+    "color": "#cba6f7"
+  },
+  "modules": [
+    {"type": "title", "key": " 󰊠 ", "keyColor": "#cba6f7"},
+    {"type": "separator"},
+    {"type": "os", "key": "  ", "keyColor": "#89b4fa"},
+    {"type": "host", "key": " 󰌢 ", "keyColor": "#94e2d5"},
+    {"type": "kernel", "key": "  ", "keyColor": "#89b4fa"},
+    {"type": "uptime", "key": " 󰅐 ", "keyColor": "#a6e3a1"},
+    {"type": "packages", "key": " 󰏗 ", "keyColor": "#f9e2af"},
+    {"type": "shell", "key": "  ", "keyColor": "#fab387"},
+    {"type": "display", "key": " 󰍹 ", "keyColor": "#74c7ec"},
+    {"type": "wm", "key": "  ", "keyColor": "#cba6f7"},
+    {"type": "terminal", "key": "  ", "keyColor": "#fab387"},
+    {"type": "cpu", "key": " 󰍛 ", "keyColor": "#89b4fa"},
+    {"type": "gpu", "key": " 󰢮 ", "keyColor": "#cba6f7"},
+    {"type": "memory", "key": " 󰑭 ", "keyColor": "#a6e3a1"},
+    {"type": "break"},
+    {"type": "colors", "symbol": "circle"}
+  ]
+}
+
