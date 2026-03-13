@@ -1,17 +1,6 @@
-# Fichiers temporaires
-*.old
-*.backup
-*.swp
-*~
-.DS_Store
-
-# Fichiers de logs
-*.log
-*.cache
-
-# Fichiers spécifiques
-hypr/hyprland.conf.old
-hypr/hyprland.conf\*
+# Brave
+BraveSoftware/
+Brave-Browser/
 
 # Firefox
 mozilla/
@@ -20,7 +9,13 @@ mozilla/
 *.delta
 *.wal
 *.shm
-thunar.xml
-xfce4/
-mimeapps.list
-*.bak
+*.log
+
+# Code
+Code/
+
+# Autres caches
+qalculate/
+yazi/
+dconf/
+onlyoffice/
